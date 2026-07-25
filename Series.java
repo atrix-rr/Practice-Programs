@@ -11,7 +11,6 @@ class Series {
 
         for (int i = 1; i <= n; i++) {
             s = s + (i * i);
-
         }
         System.out.println("Sum is:" + s);
     }
